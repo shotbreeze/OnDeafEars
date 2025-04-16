@@ -1,0 +1,1 @@
+A simple platformer solo developed in a month for school in unreal engine. All music, aniamtion, art, is my own. It's admittedly not fun to play and not as pretty as I would have wanted it. Would like to redo it someday.
